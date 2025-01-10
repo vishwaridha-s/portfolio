@@ -5,7 +5,7 @@ Welcome to my personal portfolio! This repository showcases my projects, skills,
 
 ## About Me
 
-I am a passionate software developer and UX researcher with over 5 years of experience. My expertise lies in Python, Java, and Data Structures and Algorithms (DSA). I have a keen interest in web development and photography, and I am constantly exploring new technologies and methodologies to enhance my skills.
+I am a passionate software developer. My expertise lies in Python, Java, and Data Structures and Algorithms (DSA). I have a keen interest in web development and photography, and I am constantly exploring new technologies and methodologies to enhance my skills.
 
 ## Skills
 
