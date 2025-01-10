@@ -13,7 +13,7 @@ I am a passionate software developer. My expertise lies in Python, Java, and Dat
 - **Web Development:** HTML, CSS, JavaScript (learning)
 - **Databases:** SQL
 - **Tools & Technologies:** IoT, Frontend Development
-- **Research:** UX Research, Usability Testing
+- **Research:** Bluetooth beacon technology and iot
 - **Other Interests:** Photography, Climate & Resource Utilization Tracking
 
 ## Projects
