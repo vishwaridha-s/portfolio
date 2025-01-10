@@ -231,7 +231,7 @@ body {
     margin: 30px 0;
 }
 #skillset{
-    margin-left:80px;
+    margin-left:50px;
     font-size:60px;
     color: #2a9d79;
     animation:grad 3s linear 1s forwards infinite;
@@ -284,6 +284,7 @@ body {
     margin-left: 20px;
 }
 #gall1{
+    font-size:70px;
     animation:grad 3s linear 1s forwards infinite;
 }
 #gall2{
