@@ -42,13 +42,12 @@ A creative online journal with a sticker feature and daily enlightening quotes.
 ## Accomplishments
 
 - **Second Prize in Ideathon (2024):** Awarded for presenting an impactful indoor navigation solution for disabled individuals at the national-level symposium EKKLISIA.
-- **UX Researcher:** Over 5 years of experience in academic and usability research.
 
 ## Contact
 
 Feel free to connect with me:
 
-- **Email:** [vishwaridha@example.com](mailto:vishwaridha@example.com)
+- **Email:** [vishwaridhastudent123@gmail.com](mailto:vishwaridhastudent123@gmail.com)
 - **LinkedIn:** [linkedin.com/in/vishwaridha](https://www.linkedin.com/in/vishwaridha)
 - **GitHub:** [github.com/vishwaridha](https://github.com/vishwaridha)
 
