@@ -49,7 +49,7 @@ Feel free to connect with me:
 
 - **Email:** [vishwaridhastudent123@gmail.com](mailto:vishwaridhastudent123@gmail.com)
 - **LinkedIn:** [linkedin.com/in/vishwaridha](https://www.linkedin.com/in/vishwaridha)
-- **GitHub:** [github.com/vishwaridha](https://github.com/vishwaridha)
+- **GitHub:** [github.com/vishwaridha](https://github.com/vishwaridha-)
 
 ---
 
