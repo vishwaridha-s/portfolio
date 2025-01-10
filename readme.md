@@ -48,7 +48,7 @@ A creative online journal with a sticker feature and daily enlightening quotes.
 Feel free to connect with me:
 
 - **Email:** [vishwaridhastudent123@gmail.com](mailto:vishwaridhastudent123@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vishwaridha](https://www.linkedin.com/in/vishwaridha)
+- **LinkedIn:** [linkedin.com/in/vishwaridha](https://www.linkedin.com/in/vishwaridha-s-7b1315295/)
 - **GitHub:** [github.com/vishwaridha](https://github.com/vishwaridha-)
 
 ---
